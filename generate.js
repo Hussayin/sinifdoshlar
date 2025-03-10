@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 // Kataloglar ro'yxati
-const directories = ["all", "mans-down", "mans-stned"]; // Kataloglarni qo'shing
+const directories = ["all", "mans-down", "mans-stned", "stey-mans"]; // Kataloglarni qo'shing
 
 // Natijani yozish uchun HTML fayl
 const outputFile = "./index.html";
